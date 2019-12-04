@@ -1,0 +1,15 @@
+Tanggal 03-12-2019
+1. Apa yang sudah dilakukan sejak meeting Daily Scrum terakhir?
+Jawab : Slide diperiksa kembali untuk isi kata-katanya
+2. Apa yang dilakukan dari meeting Daily Scrum hari ini sampai meeting selanjutnya?
+Jawab : Percobaan penggunaan musik background pada halaman
+3. Ada hal apa yang menghalangi pekerjaan kita sehingga belum bisa selesai?
+Jawab : menentukan musik apa yang akan digunakan
+
+Tanggal 04-12-2019
+1. Apa yang sudah dilakukan sejak meeting Daily Scrum terakhir?
+Jawab : Slide dicoba untuk diberikan musik yang autoplay dan loop, sudah memasukkan file musik yang akan digunakan di folder src
+2. Apa yang dilakukan dari meeting Daily Scrum hari ini sampai meeting selanjutnya?
+Jawab : Pemberian musik akan diselesaikan karena percobaan terakhir gagal
+3. Ada hal apa yang menghalangi pekerjaan kita sehingga belum bisa selesai?
+Jawab : mencari code yang sesuai untuk memasukkan musik 

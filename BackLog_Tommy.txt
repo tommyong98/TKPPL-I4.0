@@ -1,0 +1,32 @@
+Tanggal 23-11-2019
+1. Apa yang sudah dilakukan sejak meeting Daily Scrum terakhir?
+Jawab : -
+2. Apa yang dilakukan dari meeting Daily Scrum hari ini sampai meeting selanjutnya?
+Jawab : membuat template untuk slide presentasi.
+3. Ada hal apa yang menghalangi pekerjaan kita sehingga belum bisa selesai?
+Jawab : mencari isi dari slide presentrasi
+
+Tanggal 24-11-2019
+1. Apa yang sudah dilakukan sejak meeting Daily Scrum terakhir?
+Jawab : template sudah selesai dibuat dan mendapatkan isi dari slide presentasi.
+2. Apa yang dilakukan dari meeting Daily Scrum hari ini sampai meeting selanjutnya?
+Jawab : memasukan isi kedalam template slide presentasi.
+3. Ada hal apa yang menghalangi pekerjaan kita sehingga belum bisa selesai?
+Jawab : memperoleh bentuk tampilan setiap isi seperti list, paragraf dan lain sebagainya.
+
+Tanggal 25-11-2019
+1. Apa yang sudah dilakukan sejak meeting Daily Scrum terakhir?
+Jawab : slide presentasi sudah diisi dengan informasi yang dicari.
+2. Apa yang dilakukan dari meeting Daily Scrum hari ini sampai meeting selanjutnya?
+Jawab : memasukan background dan desain lainnya.
+3. Ada hal apa yang menghalangi pekerjaan kita sehingga belum bisa selesai?
+Jawab : kesulitan dalam memasukkan bacground dan menghasilkan tampilan yang sesuai dengan yang kami inginkan.
+
+Tanggal 26-11-2019
+1. Apa yang sudah dilakukan sejak meeting Daily Scrum terakhir?
+Jawab : masih mencari cara memasukkan background yang full karena section menutupi background.
+2. Apa yang dilakukan dari meeting Daily Scrum hari ini sampai meeting selanjutnya?
+Jawab : mencari cara untuk membuat section tidak menghalanggi background..
+3. Ada hal apa yang menghalangi pekerjaan kita sehingga belum bisa selesai?
+Jawab : section menghalangi tampilan background dan section tidak dapat menampilkan background.
+
